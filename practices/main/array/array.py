@@ -1,16 +1,17 @@
-# arr = [8, 100, 80, 7, 11]
+arr = [200, 300, 400, 600, 900, 88]
 
-# angaTuju = arr[3] + 3
+# print(arr[2])
+# print(arr[5])
 
-# print(angaTuju)
 
-# multi dimension array
+arrMD = [
+    [100, 200, 300], # 0
+    [400, 600, 800], # 1
+    [101, 203, 303], # 2
+]
 
-arrs = [[10, 20, 30], [40, 50, 60], [70, 80, 90]]
+print(arrMD[1][2])
 
-dp = arrs[0][1]
 
-print(dp)
 
-ep = arrs[1][2]
-print(ep)
+

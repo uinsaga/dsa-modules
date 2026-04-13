@@ -2,39 +2,19 @@
 
 ---
 
-## 📌 INFORMASI UMUM
+## INFORMASI UMUM
 
-* Pertemuan: 4
 * Topik: Hash Table
-* Durasi: 3 Jam
-
-  * 60 menit konsep
-  * 120 menit praktik
 * Prasyarat:
-
   * Paham List
   * Paham Stack & Queue
   * Paham Looping & If
 
 ---
 
-## 🎯 CAPAIAN PEMBELAJARAN
+## INTRO
 
-Mahasiswa mampu:
-
-1. Menjelaskan konsep Hash Table
-2. Memahami konsep key–value
-3. Menggunakan Dictionary di Python
-4. Melakukan pencarian data secara efisien
-5. Mengimplementasikan kasus sederhana berbasis Hash Table
-
----
-
-## 🔁 BAGIAN I – JEMBATAN DARI PERTEMUAN 3 (10 MENIT)
-
-Tanya ke mahasiswa:
-
-> Kalau kita punya list:
+kita punya list:
 
 ```python
 data = ["Andi", "Budi", "Citra"]
@@ -58,7 +38,7 @@ Masuk ke Hash Table.
 
 ---
 
-## 📦 BAGIAN II – APA ITU HASH TABLE?
+## 📦 BAGIAN I – APA ITU HASH TABLE?
 
 ### 1️⃣ Definisi
 
@@ -89,7 +69,7 @@ Hash table → pakai key
 
 ---
 
-### 🧠 Analogi Sederhana
+### Analogi Sederhana
 
 Kamus Bahasa:
 
