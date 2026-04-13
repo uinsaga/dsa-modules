@@ -1,17 +1,6 @@
 class CustomHashTable:
     def __init__(self):
-        self.list = [
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-        ]
+        self.list = [[],[],[],[],[],[],[],[],[],[],]
 
     def hash_function(self, value: str):
         sum_of_chars = 0
@@ -39,6 +28,7 @@ ht.add("ba")
 ht.add("bi")
 ht.add("bu")
 ht.add("be")
+ht.add("bo")
 ht.add("bo")
 
 
