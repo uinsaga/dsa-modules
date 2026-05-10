@@ -238,13 +238,13 @@ Artinya:
 
 ## Kelebihan
 
-✅ Cek koneksi sangat cepat
-✅ Mudah dipahami
+- Cek koneksi sangat cepat
+- Mudah dipahami
 
 ## Kekurangan
 
-❌ Boros memori
-❌ Tidak efisien untuk graph besar
+- Boros memori
+- Tidak efisien untuk graph besar
 
 ---
 
@@ -270,12 +270,12 @@ Node 0 terhubung ke:
 
 ## Kelebihan
 
-✅ Hemat memori
-✅ Cocok untuk graph besar
+- Hemat memori
+- Cocok untuk graph besar
 
 ## Kekurangan
 
-❌ Cek koneksi lebih lambat
+- Cek koneksi lebih lambat
 
 ---
 
@@ -395,11 +395,11 @@ Itulah BFS.
 
 # Kapan BFS Digunakan?
 
-✅ Mencari jalur terpendek
-✅ Pencarian level
-✅ Social network
-✅ GPS sederhana
-✅ Maze shortest path
+- Mencari jalur terpendek
+- Pencarian level
+- Social network
+- GPS sederhana
+- Maze shortest path
 
 ---
 
@@ -418,7 +418,7 @@ BFS akan:
 * lalu level berikutnya
 
 Karena BFS mencari per level, maka:
-✅ jalur pertama yang ditemukan adalah jalur terpendek.
+- jalur pertama yang ditemukan adalah jalur terpendek.
 
 ---
 
@@ -512,11 +512,11 @@ Itulah DFS.
 
 # Kapan DFS Digunakan?
 
-✅ Maze solving
-✅ Backtracking
-✅ Deteksi cycle
-✅ Topological sort
-✅ Sudoku solver
+- Maze solving
+- Backtracking
+- Deteksi cycle
+- Topological sort
+- Sudoku solver
 
 ---
 
