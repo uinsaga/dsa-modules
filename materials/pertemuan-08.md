@@ -10,17 +10,12 @@
 
 Setelah mempelajari materi ini, mahasiswa mampu:
 
-✅ Memahami konsep graph dalam dunia nyata.
-
-✅ Membedakan graph dan tree.
-
-✅ Membuat representasi graph menggunakan adjacency matrix dan adjacency list.
-
-✅ Mengimplementasikan BFS dan DFS.
-
-✅ Memilih algoritma traversal yang tepat sesuai kasus.
-
-✅ Menyelesaikan masalah nyata menggunakan graph.
+- Memahami konsep graph dalam dunia nyata.
+- Membedakan graph dan tree.
+- Membuat representasi graph menggunakan adjacency matrix dan adjacency list.
+- Mengimplementasikan BFS dan DFS.
+- Memilih algoritma traversal yang tepat sesuai kasus.
+- Menyelesaikan masalah nyata menggunakan graph.
 
 ---
 
